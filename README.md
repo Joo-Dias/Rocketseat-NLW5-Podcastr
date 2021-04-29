@@ -1,5 +1,7 @@
 # <img src="public/logo.svg" alt="Podcastr logo" width="160px"/>
 
+<center ><img src="github/Podcastr.gif" alt="Podcastr gif" width="560px"/></center>
+
   ## 📒 Sobre o Podcastr
   O Podcastr foi um projeto desenvolvido durante o evento NLW5 da Rocketseat, é
   um web site com o foco em Podcast, onde o usuário poderá ouvir seus podcast 
