@@ -1,1 +1,1 @@
-# <img src="/logo.svg" alt="Podcastr logo" width="160px"/>
+# <img src="public/logo.svg" alt="Podcastr logo" width="160px"/>
